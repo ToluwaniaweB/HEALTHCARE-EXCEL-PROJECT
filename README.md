@@ -1,5 +1,5 @@
 # HEALTHCARE-EXCEL-PROJECT
-# 🏥 Healthcare Dashboard
+# 🏥 Healthcare Analysis
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Status](https://img.shields.io/badge/Status-Completed-blue)
@@ -66,12 +66,12 @@ This dashboard aims to:
 
 ## 📈 Key Metrics (KPIs)
 
-⚖️ Staff-to-Patient Ratio
-🏥 Top Hospital
-🩺 Best Performing Doctor
-💊 Most Prescribed Medication
-📊 Most Admitted Age Group
-⏱️ Average Length of Stay  
+- ⚖️ Staff-to-Patient Ratio
+- 🏥 Top Hospital
+- 🩺 Best Performing Doctor
+- 💊 Most Prescribed Medication
+- 📊 Most Admitted Age Group
+- ⏱️ Average Length of Stay  
 
 ---
 
