@@ -55,8 +55,9 @@ The dataset contains structured healthcare records with the following categories
 
 This dashboard aims to:
 
-- Analyze patient demographics  
-- Identify common medical conditions  
+- Analyze patient demographics
+- Present test result breakdown
+- Analyze patient count by gender distribution
 - Track hospital admissions and trends  
 - Evaluate financial performance  
 - Measure healthcare efficiency  
@@ -65,12 +66,12 @@ This dashboard aims to:
 
 ## 📈 Key Metrics (KPIs)
 
-- ✅ Total Patients  
-- 💰 Total Billing Amount  
-- ⏱️ Average Length of Stay  
-- 🚑 Admission Count by Type  
-- 🦠 Condition-wise Patient Count  
-- 🛡️ Insurance Coverage Distribution  
+⚖️ Staff-to-Patient Ratio
+🏥 Top Hospital
+🩺 Best Performing Doctor
+💊 Most Prescribed Medication
+📊 Most Admitted Age Group
+⏱️ Average Length of Stay  
 
 ---
 
@@ -106,10 +107,9 @@ The dashboard includes dynamic filters (slicers):
 
 - Year  
 - Month  
-- Medical Condition  
+- Gender
 - Hospital  
 - Admission Type  
-- Insurance Provider
 - <img width="793" height="367" alt="TOLUWANI" src="https://github.com/user-attachments/assets/a10bc5c0-13e5-4554-ab03-8d19f4261812" />
 
 
